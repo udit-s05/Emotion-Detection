@@ -19,3 +19,11 @@ Once the model is trained, input textual data can be processed to predict the in
 ## Contributors
 
 Rachit Gupta 
+
+
+## Model Link
+
+```bash
+https://www.kaggle.com/code/rachitneedcse/emotion-detection-and-intensity-classification
+```
+
